@@ -15,5 +15,3 @@ def run_guessing_game
   end #elsif
   
 end 
-
-#run_guessing_game
